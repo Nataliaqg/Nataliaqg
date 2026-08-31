@@ -66,8 +66,8 @@ Currently pursuing an **MSc in Data Science & AI**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nataliaqg&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=8B5CF6&text_color=6366F1" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataliaqg&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=6366F1" width="42%" />
+<img src="https://github-readme-stats-git-master-adluc.vercel.app/api?username=Nataliaqg&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=8B5CF6&text_color=6366F1" width="48%" />
+<img src="https://github-readme-stats-git-master-adluc.vercel.app/api/top-langs/?username=Nataliaqg&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=6366F1" width="42%" />
 
 <img src="https://streak-stats.demolab.com/?user=Nataliaqg&hide_border=true&background=00000000&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B93A1&dates=6B7280" width="60%" />
 </div>
