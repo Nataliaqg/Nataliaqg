@@ -77,7 +77,7 @@ Open to remote and freelance work — if something looks like a good fit, reach 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natalia-quiroga-gutierrez-819450261)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@lacase.app)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliaquirogag@gmail.com)
 
 </div>
 
