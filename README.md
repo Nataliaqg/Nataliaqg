@@ -2,7 +2,11 @@
 
 # Hi there, I'm Natalia 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Frontend+Developer;Vue+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Astro;Building+interfaces+that+hold+up" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend-Focused+Software+Engineer;Full-Stack+Range%3A+React+%C2%B7+Vue+%C2%B7+Laravel;Building+interfaces+that+hold+up" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://nataliaqg-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natalia-quiroga-gutierrez-819450261)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliaquirogag@gmail.com)
 
 </div>
 
@@ -10,11 +14,12 @@
 
 ## ⭐ About
 
-Systems Engineer with +3 years of experience building production frontend products across **Vue, Astro, React, and Next.js**. I care about interfaces that feel intuitive and responsive for the people using them, and about the code underneath staying just as clean — reusable components, custom hooks, clear boundaries between UI and logic.
+Software Engineer with +3 years of experience, frontend-focused with full-stack range proven across production projects — **Vue, Astro, React, and Next.js** on the frontend; **Laravel** REST APIs, database design, and authentication on the backend. I care about interfaces that feel intuitive and responsive for the people using them, and about the code underneath staying just as clean — reusable components, custom hooks, clear boundaries between UI and logic.
 
-Currently pursuing an **MSc in Data Science & AI** 
+Currently pursuing an **MSc in Data Science & AI**
 
 📍 Santa Cruz, Bolivia · comfortable working across time zones
+🔗 [nataliaqg-portfolio.vercel.app](https://nataliaqg-portfolio.vercel.app/) — case studies with impact numbers, screenshots, and full project breakdowns
 
 <br>
 
@@ -28,10 +33,18 @@ Currently pursuing an **MSc in Data Science & AI**
 ![Astro](https://img.shields.io/badge/Astro-7C3AED?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=for-the-badge&logo=typescript&logoColor=white)
 
+**Backend & databases**
+
+![Laravel](https://img.shields.io/badge/Laravel-4F46E5?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-6366F1?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **State management**
 
 ![Zustand](https://img.shields.io/badge/Zustand-6366F1?style=for-the-badge)
 ![Pinia](https://img.shields.io/badge/Pinia-8B5CF6?style=for-the-badge)
+![Nanostores](https://img.shields.io/badge/Nanostores-3B82F6?style=for-the-badge)
 
 **UI & styling**
 
@@ -40,25 +53,31 @@ Currently pursuing an **MSc in Data Science & AI**
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-6D28D9?style=for-the-badge)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-4F46E5?style=for-the-badge&logo=radixui&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-7C3AED?style=for-the-badge&logo=framer&logoColor=white)
 
 **Data, forms & testing**
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-6366F1?style=for-the-badge)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-8B5CF6?style=for-the-badge)
+![TanStack Form](https://img.shields.io/badge/TanStack_Form-6D28D9?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-7C3AED?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-6D28D9?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-4F46E5?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 **Tooling**
 
 ![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-4F46E5?style=for-the-badge&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-5A0EF8?style=for-the-badge)
 
 <br>
 
 ## 📌 Recent projects
 
 - **La Case** — restaurant POS admin dashboard, currently wrapping up · Next.js, TanStack stack
-- **Hospédate** — Airbnb-style rental marketplace · Astro + React, JWT auth with multi-tab session sync
+- **VíaVerde** — export-readiness platform for Bolivian SMEs; led it from concept to production · Vue + Laravel, 11,000+ users, led a 3-dev team → [case study](https://nataliaqg-portfolio.vercel.app/work/viaverde)
+- **Hospédate** — Airbnb-style rental marketplace · Astro + React, JWT auth with multi-tab session sync, 500+ bookings in production → [case study](https://nataliaqg-portfolio.vercel.app/work/hospedate)
 
 <br>
 
@@ -76,6 +95,7 @@ Open to remote and freelance work — if something looks like a good fit, reach 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://nataliaqg-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natalia-quiroga-gutierrez-819450261)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliaquirogag@gmail.com)
 
